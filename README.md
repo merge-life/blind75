@@ -8,8 +8,8 @@ If you're into this sort of thing and are looking to sharpen your LC (or any onl
 
 ### Easy
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
