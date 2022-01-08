@@ -27,62 +27,62 @@ If you're into this sort of thing and are looking to sharpen your LC (or any onl
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 
 ### Medium
 
 > I'll properly format these once we get closer to them :)
 
-- [ ] https://leetcode.com/problems/longest-substring-without-repeating-characters/
-- [ ] https://leetcode.com/problems/longest-palindromic-substring/
-- [ ] https://leetcode.com/problems/container-with-most-water/
-- [ ] https://leetcode.com/problems/3sum/
-- [ ] https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-- [ ] https://leetcode.com/problems/search-in-rotated-sorted-array/
-- [ ] https://leetcode.com/problems/combination-sum/
-- [ ] https://leetcode.com/problems/rotate-image/
-- [ ] https://leetcode.com/problems/group-anagrams/
-- [ ] https://leetcode.com/problems/spiral-matrix/
-- [ ] https://leetcode.com/problems/jump-game/
-- [ ] https://leetcode.com/problems/merge-intervals/
-- [ ] https://leetcode.com/problems/insert-interval/
-- [ ] https://leetcode.com/problems/unique-paths/
-- [ ] https://leetcode.com/problems/set-matrix-zeroes/
-- [ ] https://leetcode.com/problems/word-search/
-- [ ] https://leetcode.com/problems/decode-ways/
-- [ ] https://leetcode.com/problems/validate-binary-search-tree/
-- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal/
-- [ ] https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-- [ ] https://leetcode.com/problems/longest-consecutive-sequence/
-- [ ] https://leetcode.com/problems/clone-graph/
-- [ ] https://leetcode.com/problems/word-break/
-- [ ] https://leetcode.com/problems/reorder-list/
-- [ ] https://leetcode.com/problems/maximum-product-subarray/
-- [ ] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- [ ] https://leetcode.com/problems/house-robber/
-- [ ] https://leetcode.com/problems/number-of-islands/
-- [ ] https://leetcode.com/problems/course-schedule/
-- [ ] https://leetcode.com/problems/implement-trie-prefix-tree/
-- [ ] https://leetcode.com/problems/design-add-and-search-words-data-structure/
-- [ ] https://leetcode.com/problems/house-robber-ii/
-- [ ] https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-- [ ] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
-- [ ] https://leetcode.com/problems/product-of-array-except-self/
-- [ ] https://leetcode.com/problems/meeting-rooms-ii/
-- [ ] https://leetcode.com/problems/graph-valid-tree/
-- [ ] https://leetcode.com/problems/encode-and-decode-strings/
-- [ ] https://leetcode.com/problems/longest-increasing-subsequence/
-- [ ] https://leetcode.com/problems/coin-change/
-- [ ] https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
-- [ ] https://leetcode.com/problems/top-k-frequent-elements/
-- [ ] https://leetcode.com/problems/sum-of-two-integers/
-- [ ] https://leetcode.com/problems/pacific-atlantic-water-flow/
-- [ ] https://leetcode.com/problems/longest-repeating-character-replacement/
-- [ ] https://leetcode.com/problems/non-overlapping-intervals/
-- [ ] https://leetcode.com/problems/serialize-and-deserialize-bst/
-- [ ] https://leetcode.com/problems/palindromic-substrings/
-- [ ] https://leetcode.com/problems/longest-common-subsequence/
+- [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [ ] [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [ ] [3 Sum](https://leetcode.com/problems/3sum/)
+- [ ] [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [ ] [Word Break](https://leetcode.com/problems/word-break/)
+- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/)
+- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [ ] [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [ ] [Meeting Room II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+- [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [ ] [Top K Frequent Element](https://leetcode.com/problems/top-k-frequent-elements/)
+- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [ ] [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- [ ] [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
 ### Hard
 
