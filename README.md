@@ -32,8 +32,6 @@ If you're into this sort of thing and are looking to sharpen your LC (or any onl
 
 ### Medium
 
-> I'll properly format these once we get closer to them :)
-
 - [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
