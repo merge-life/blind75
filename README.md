@@ -32,9 +32,9 @@ If you're into this sort of thing and are looking to sharpen your LC (or any onl
 
 ### Medium
 
-- [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
-- [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [ ] [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [x] [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [3 Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
